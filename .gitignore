@@ -1,0 +1,5 @@
+node_modules/
+*.tgz
+release/
+target/
+.DS_Store
