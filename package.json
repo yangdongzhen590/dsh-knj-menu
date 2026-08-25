@@ -1,6 +1,6 @@
 {
   "name": "dsh-knj-menu",
-  "version": "2026.8.24",
+  "version": "2026.8.251",
   "description": "第三方菜单管理器：统一收纳第三方插件的新增菜单入口，提供常驻/折叠 + 📌 固定（DeepSeek Harness）",
   "author": "knj",
   "license": "MIT",
