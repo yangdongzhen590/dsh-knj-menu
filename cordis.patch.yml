@@ -1,0 +1,5 @@
+# dsh-knj-menu bundle patch
+# 第三方菜单管理器：插入插件行（纯 client bundle，无 host 端）。
+- insert:
+    - id: knj-menu
+      name: dsh-knj-menu
